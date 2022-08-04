@@ -1,8 +1,31 @@
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
+*{
 
-    text-decoration: none;
-    color: initial;
+direction: rtl;
+font-family: Tajawal;
+
 }
+
+.title {
+
+text-align: center;
+margin: 25px;
+font-weight: bold;
+font-size: 25px;
+
+}
+
+.button {
+    background-color: #dc9859; /* Green */
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-weight: bold;
+  }
+  
