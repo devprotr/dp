@@ -14,6 +14,8 @@ font-size: 25px;
 
 }
 
+
+
 .button {
     background-color: #dc9859; /* Green */
     border: none;
@@ -29,3 +31,9 @@ font-size: 25px;
     font-weight: bold;
   }
   
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
