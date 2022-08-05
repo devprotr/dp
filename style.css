@@ -13,12 +13,12 @@ text-align: center;
 margin-bottom: 25px;
 font-weight: bold;
 font-size: 25px;
-background-color: #dc9859;
+background-color: #1a2537;
 border-bottom-left-radius: 25px;
 border-bottom-right-radius: 25px;
 display: inline-flex;
 padding: 20px;
-
+color: white;
 }
 
 .button {
