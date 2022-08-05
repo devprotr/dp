@@ -10,9 +10,14 @@ font-family: Tajawal;
 .title {
 
 text-align: center;
-margin: 25px;
+margin-bottom: 25px;
 font-weight: bold;
 font-size: 25px;
+background-color: #dc9859;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+display: inline-flex;
+padding: 20px;
 
 }
 
