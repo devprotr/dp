@@ -1,0 +1,23 @@
+*{
+    direction: rtl;
+    text-align: rtl;
+}
+
+.shape{
+    height: 70px;
+    width: 50;
+}
+#img{
+    text-align: center;
+    border-radius: 300px;
+    
+}
+#T1{
+    font-size: 50px;
+    text-align: right;
+}
+
+h3{
+    color:#800000;
+
+ }
