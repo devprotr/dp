@@ -1,0 +1,66 @@
+.x{color: brown; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+.name{
+text-align: center;
+font-size: 40px;
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(131, 63, 86);
+border-radius: 40px;
+padding: 10px 100px 10px 100px;
+margin: 30px 500px 30px 500px;}
+
+
+.u{text-align: center;}
+
+
+img{ border-radius: 40%;}
+
+
+.z{background-color: rgb(76, 116, 99);
+    border-color: rgb(112, 112, 128);
+    border:solid 5px ;
+    padding: 10px 10px 5px 10px ;
+    margin: 0px 300px 0px 300px;
+    text-align: center;
+}
+
+
+.a{font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+.b{background-color: rgb(76, 116, 99);
+    border-color: rgb(112, 112, 128);
+    border:solid 5px ;
+    padding: 10px 10px 5px 10px ;
+    margin: 0px 300px 0px 300px;;
+    text-align: center;   
+}
+
+
+.c{background-color: rgb(76, 116, 99);
+    border-color: rgb(112, 112, 128);
+    border:solid 5px ;
+    padding: 10px 10px 5px 10px ;
+    margin: 0px 300px 0px 300px;;
+    text-align: center;}
+
+
+    .d{
+        background-color: rgb(76, 116, 99);
+        border:solid 5px ;
+        padding: 10px 10px 5px 10px ;
+        margin: 0px 300px 0px 300px;;
+        text-align: center;
+    
+    }
+    body{background-color: darkcyan;}
+
+
+
+        
+
+    
