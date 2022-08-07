@@ -1,0 +1,66 @@
+*{
+direction: rtl;
+
+}
+
+body{
+background-color: rgb(90, 85, 85);
+}
+
+
+#title{
+
+color: rgb(186, 131, 238);
+font-size: 20px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h3{
+color: rgb(167, 125, 206);
+}
+
+header{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: row-reverse;
+
+}
+
+.name{
+
+text-align: start;
+background-color: rgb(156, 212, 194);
+padding: 2rem;
+align-self: flex-start;
+
+
+}
+
+#title
+{
+text-align: center;
+}
+
+.img{
+
+background-color: bisque;
+padding: 1rem;
+
+
+margin-right: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
