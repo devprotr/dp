@@ -1,0 +1,16 @@
+*
+.cv{
+background-color: aquamarine;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+    text-align: center;
+    border-radius: 300px;
+
+    
+}
+#T1{
+    color: white;
+    font-size: 50px;
+}
+
