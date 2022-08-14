@@ -1,0 +1,82 @@
+* {
+    background-attachment: fixed;
+}
+
+body {
+    margin: 0;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(images/1111.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+    color: rgb(196, 9, 9);
+}
+
+h5 {
+    color: aliceblue;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+.info {
+    margin-right: 50px;
+    margin-top: 30px;
+    direction: rtl;
+}
+
+img {
+    margin: 0 40%;
+    margin-right: 50px;
+    margin-left: 43%;
+    width: 200px;
+    height: 200px;
+    border: solid 2.5px rgb(255, 255, 255);
+    margin-top: auto;
+    display: inline-block;
+}
+
+#light-layer {
+    width: 92%;
+    height: 710px;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.conec {
+    margin-top: -16.5%;
+    text-align: center;
+    margin-left: 34%;
+}
+
+.skills {
+    text-align: left;
+    margin-top: -11.5%;
+    margin-left: 38%;
+}
+
+.study {
+    margin-top: -30px;
+    text-align: right;
+}
+
+.courses {
+    text-align: left;
+    margin-top: -41%;
+    margin-left: -31%;
+}
+
+.language {
+    text-align: left;
+    margin-left: -20%;
+    margin-top: -20%;
+}
