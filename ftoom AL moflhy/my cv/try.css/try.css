@@ -1,0 +1,42 @@
+h1 { color: rgb(190, 169, 73);
+     font-size: 50px;
+     background-color: rgba(59, 48, 48, 0.87); 
+     text-align:center; 
+    
+}    
+h2{ 
+     color: rgba(8, 8, 8, 0.945);
+      background-color: rgba(201, 172, 10, 0.137);
+
+} 
+ div{ 
+color: rgb(110, 13, 236);
+
+
+ } 
+ body{ 
+text-align: left; 
+margin: 0%;
+padding: 0%;
+background-color: rgba(68, 67, 67, 0.425);
+background-image: url(999try.css);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ } 
+ .myph{ width: 50;
+        margin-left: 4%;
+
+ } 
+ img{ 
+width: 250px;
+height: 250px;
+    border-radius: 50%;
+    border: solid 4px white;
+
+
+  }
+ add{
+    margin-left: 45px;
+
+
+
+ }
